@@ -3,7 +3,7 @@ algoritmo "RegistroFuncionariosPersonalizado"
 // Professor   : Pedro Brandão Neto 
 // Descrição   : Registro de funcionários
 // Autor(a)    : André da Silva Lopes
-// Data atual  : 21/01/2025
+// Data atual  : 19/01/2025
 var
     // Vetores para registrar os dados
     sexo: vetor[1..10] de caractere
