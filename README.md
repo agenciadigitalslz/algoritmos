@@ -5,7 +5,7 @@
 <h3 align="center">🛠️ O que estou aprendendo atualmente 🛠️</h3>
 
 - Formação em **Alura Oracle Next Education** 🏫
-- **Ciência de Dados** pela DIO 💻
+- **DIO Campus Expert** pela DIO 💻
 
 <h4 align="center">
   <a href="https://www.alura.com.br/">
